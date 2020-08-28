@@ -8,7 +8,7 @@ cd to each subfolders and run npm install and npm start to run the app locally
 
 you will be needing for this app;
 
--JWT screte key
+-JWT secret key
 
 -Google Client_Id and Secret_Key for OAUTH2.
 
